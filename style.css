@@ -5,3 +5,7 @@
 .portfolioImage{
     height: 300px !important;
 }
+
+.carousel-caption {
+    padding-top: 14px !important;
+}
